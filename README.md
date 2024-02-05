@@ -5,7 +5,7 @@ Clone the Repo into your Machine
 
 ```bash
 # Clone with git
-git clone
+git clone https://github.com/vishnuarjun512/Houseware-Assignment.git
 ```
 
 First, install required Dependencies:
