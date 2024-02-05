@@ -40,7 +40,7 @@ To Run all The Tests visually using Cypress E2E
 npm run visual-test
 ```
 
-### Test
+### Test list
 
 - Header component
     - Checking Header Present
