@@ -1,18 +1,11 @@
-<<<<<<< HEAD
 # Houseware-Assignment
-=======
->>>>>>> a6bb27a (Tests added with Cypress)
 ## Installation
 
 Clone the Repo into your Machine
 
 ```bash
 # Clone with git
-<<<<<<< HEAD
 git clone https://github.com/vishnuarjun512/Houseware-Assignment.git
-=======
-git clone
->>>>>>> a6bb27a (Tests added with Cypress)
 ```
 
 First, install required Dependencies:
@@ -47,7 +40,6 @@ To Run all The Tests visually using Cypress E2E
 npm run visual-test
 ```
 
-<<<<<<< HEAD
 ### Test list
 
 - Header component
@@ -61,16 +53,3 @@ npm run visual-test
 - Footer Component
   - Checking Footer Preseent
   - Toggling through Footer Categories
-=======
-### Test
-
-Markup : _ Bullet list
-_ Nested bullet
-_ Sub-nested bullet etc
-_ Bullet list item 2
-
--OR-
-
-Markup : - Header component - Checking Header Present
-Markup : - Main Component - Checking for Header and Input - Creating a New Todo - Marking Todo Done - Deleting Completed Todo
->>>>>>> a6bb27a (Tests added with Cypress)
